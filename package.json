@@ -1,0 +1,24 @@
+{
+  "name": "tea_second_util",
+  "version": "0.0.1",
+  "description": "tea_second_util - js utility functions",
+  "keywords": [
+    "utils",
+    "js-utils"
+  ],
+  "author": "LinXunFeng",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LinXunFeng/tea_second_util"
+  },
+  "homepage": "https://github.com/LinXunFeng/tea_second_util",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "ISC",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
